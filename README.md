@@ -6,7 +6,12 @@ Jenkins JNLP Agent with DnD
 [jenkins/jnlp-agent](https://hub.docker.com/r/jenkins/jnlp-agent)
 
 
+### Image
+
+[francoburga/jenkins-jnlp-docker-agent](https://hub.docker.com/r/francoburga/jenkins-jnlp-docker-agent)
+
 ### Pull Image
+
 `docker pull francoburga/jenkins-jnlp-docker-agent:latest`
 
 ### Run Command
